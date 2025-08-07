@@ -1,4 +1,4 @@
-[![Header](https://github.com/AnnaAnna299/AnnaAnna299/blob/main/assets/resized_image%20(1).png)]
+![Header](https://github.com/AnnaAnna299/AnnaAnna299/blob/main/assets/resized_image%20(1).png)
 
 About me
 
